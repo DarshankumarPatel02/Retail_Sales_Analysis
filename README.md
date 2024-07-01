@@ -3,10 +3,11 @@
 ## This project involves analyzing FMCG (Fast Moving Consumer Goods) retail data to derive various Key Performance Indicators (KPIs) and insights. The analysis helps in understanding product sales growth, category market share, profit margins, discount effectiveness, average sales per product, and customer acquisition costs. Additionally, it explores the performance of sales managers at different levels.
 
 # Dataset
-## The dataset used for this analysis is available here.
+## The dataset used for this analysis is available [here](https://docs.google.com/spreadsheets/d/1lmG8CQSRs4viBfQkFwF_W5A5F4SyNIVH3FXbNZVuR3M/edit?usp=sharing).
 
 # Tableau Visualization
-## The results and insights from this analysis are visualized using Tableau. View the interactive dashboard here.
+
+## The results and insights from this analysis are visualized using Tableau. View the interactive dashboard [here](https://public.tableau.com/app/profile/darshankumar.patel3977/viz/Retail_Sales_Analysis_17198759913890/Dashboard1).
 
 # Key Performance Indicators (KPIs)
 ## Product Sales Growth: Measures the growth in sales for each product from 2022 to 2023.
